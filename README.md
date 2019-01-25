@@ -14,13 +14,17 @@
 ### Building
 
 Clone the repository
+
 ```git clone https://github.com/eemed/tetris.git```
 
 Navigate to the repository
+
 ```cd Tetris```
 
 Compile the program
+
 ```make```
 
 Run the binary
+
 ```./build/apps/program```
